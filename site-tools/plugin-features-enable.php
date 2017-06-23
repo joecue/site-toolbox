@@ -18,4 +18,6 @@
   require_once( plugin_dir_path( __FILE__ ).'portfolio/portfolio-metabox.php');
  }
 
+  require_once( plugin_dir_path( __FILE__ ).'default-features/toolbox-admin-widget.php');
+
 ?>
